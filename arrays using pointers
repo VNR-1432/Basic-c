@@ -1,0 +1,18 @@
+#include<stdio.h>
+int main()
+{
+    int a[100],n,i,*ptr=&a[0];
+    printf("\nenter the size of the array");
+    scanf("%d",&n);
+    for(i=0;i<n;i++)
+    {
+        printf("enter the value");
+        scanf("%d",(ptr+i));
+    }
+    printf("\nthe array elements are \n");
+    for(i=0;i<n;i++)
+    {
+        printf("%d",*(ptr+i));
+    }
+    return 0;
+}
