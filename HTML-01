@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <H1>Person Name:VETA NAGARAJU</H1>
+    <H1>Register Number:22JD1A04A7</H1>
+    <H1>Branch:ECE</H1>
+    <H1>Year & Semister:3-2</H1>
+    <h1>Blocklogs:03</h1>
+    <ol>
+        <li>Applied physics</li>
+        <li>Randaom Variables And Stocatic Process</li>
+        <li>Analog communication</li>
+    </ol>
+    
+</body>
+</html>
