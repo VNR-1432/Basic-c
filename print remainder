@@ -1,0 +1,18 @@
+#include<stdio.h>
+void main()
+{
+    int a,b=3,rem;
+    printf("enter the value:");
+    scanf("%d",&a);
+    if(a/b)
+    {
+        printf("the given number is divisible by 3.");
+        rem = a % b;
+        printf("\nremainder is %d",rem);
+    }
+    else
+    {
+        printf("the given number is not divisible by 3.");
+    }
+}
+1
