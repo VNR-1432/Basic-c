@@ -1,0 +1,19 @@
+#include<stdio.h>
+int main()
+{
+	int n;
+	printf("enter a num:");
+	scanf("%d",&n);
+	if(n%3==0&&n%5==0)
+	{
+		printf("hihello");
+	}
+	else if(n%5==0)
+	{
+		printf("hello");
+	}
+	else if(n%3==0)
+	{
+		printf("hi");
+	}
+}
